@@ -1,0 +1,153 @@
+{
+  "socias": [
+    {
+      "formacion": "• Pontificia Universidad Católica de Chile - Periodista\n• Universidad de los Andes - Licenciada en Filosofía\n",
+      "foto": "/uploads/oc2-card-fernanda-otero.png",
+      "nombre": "Fernanda",
+      "contacto": "fernanda.otero@oc2.cl",
+      "foto_modal": "/uploads/oc2-modal-fernanda-otero.png",
+      "apellido1": "Otero",
+      "apellido2": "Alvarado",
+      "trayectoria": "• Experiencia en medios de comunicación como docente, directora, editora, reportera y columnista. \n• Conocimiento del entorno político y social, por el ejercicio de diversas responsabilidades en diferentes ámbitos del quehacer nacional. \n• 20 años asesorando en comunicación corporativa.\n",
+      "cargo": "SOCIA DIRECTORA",
+      "linkedin": "https://www.linkedin.com/in/fernanda-otero-alvarado-222b2123/"
+    },
+    {
+      "formacion": "• Universidad Diego Portales - Periodista y Licenciada en Comunicación Social \n• Universidad Diego Portales - Postítulo en Multimedia e Internet\n",
+      "foto": "/uploads/oc2-card-ximena-díaz.png",
+      "nombre": "Ximena",
+      "contacto": "ximena.diaz@oc2.cl",
+      "foto_modal": "/uploads/oc2-modal-ximena-díaz.png",
+      "apellido1": "Díaz",
+      "apellido2": "Carrasco",
+      "trayectoria": "• 12 años en medios de comunicación, editora general en Copesa.\n• 15 años en comunicación corporativa.\n",
+      "cargo": "SOCIA",
+      "linkedin": "https://www.linkedin.com/in/ximenadiazc/"
+    },
+    {
+      "formacion": "• Universidad de La República - Periodista y Licenciada en Comunicación Social\n• Pontificia Universidad Católica de Chile - Diplomada en Historia Política de Chile",
+      "foto": "/uploads/oc2-card-carolina-hidalgo.png",
+      "nombre": "Carolina",
+      "contacto": "carolina.hidalgo@oc2.cl",
+      "foto_modal": "/uploads/oc2-modal-carolina-hidalgo.png",
+      "apellido1": "Hidalgo",
+      "apellido2": "Gómez",
+      "trayectoria": "• Más de 9 años como periodista y editora en Copesa.\n• 15 años en comunicación corporativa.\n",
+      "cargo": "SOCIA",
+      "linkedin": "https://www.linkedin.com/in/carolina-alejandra-hidalgo-gomez/"
+    },
+    {
+      "formacion": "• Universidad Diego Portales - Periodista\n• Pontificia Universidad Católica de Chile - Diplomada en Comunicación Política y Campañas Electorales\n• Universidad de Santiago - Licenciada en Administración Pública",
+      "foto": "/uploads/oc2-card-paula-gonzález.png",
+      "nombre": "Paula",
+      "contacto": "paula.Gonzalez@oc2.cl",
+      "foto_modal": "/uploads/oc2-modal-paula-gonzález.png",
+      "apellido1": "González",
+      "apellido2": "Rocha",
+      "trayectoria": "• 5 años como editora, conductora y reportera en TVN y Mega.\n• 15 años en comunicación estratégica.\n",
+      "cargo": "SOCIA",
+      "linkedin": "https://www.linkedin.com/in/paula-gonz%C3%A1lez-rocha/"
+    }
+  ],
+  "equipo": [
+    {
+      "formacion": "• Pontificia Universidad Católica de Chile - Periodista y Licenciada en Comunicación Social\n• Pontificia Universidad Católica de Chile - Licenciada en Ciencias Sociales\n• Pontificia Universidad Católica de Chile - Diplomada en Gestión Estratégica de las Comunicaciones ",
+      "foto": "/uploads/oc2-card-magdalena-browne.png",
+      "nombre": "Magdalena",
+      "foto_modal": "/uploads/oc2-modal-magdalena-browne.png",
+      "apellido1": "Browne",
+      "apellido2": "Urzúa",
+      "trayectoria": "• 10 años en comunicación corporativa.\n",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Universidad del Desarrollo - Periodista. Mejor titulada de su generación.\n• Pontificia Universidad Católica de Chile - Magíster en Comunicación Estratégica\n• Pontificia Universidad Católica de Chile - Diplomado en IA en gestión comunicacional y nuevas tendencias en comunicación estratégica",
+      "foto": "/uploads/oc2-card-carla-anconetani.png",
+      "nombre": "Carla",
+      "foto_modal": "/uploads/oc2-modal-carla-anconetani.png",
+      "apellido1": "Anconetani",
+      "apellido2": "Miranda",
+      "trayectoria": "• Experiencia en comunicación estratégica, marketing y gestión de RRSS.\n",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Pontificia Universidad Católica de Valparaíso - Periodista\n• Universidad Adolfo Ibáñez - Magíster en Comunicación Estratégica",
+      "foto": "/uploads/oc2-card-jorge-vejar.png",
+      "nombre": "Jorge",
+      "foto_modal": "/uploads/oc2-modal-jorge-vejar.png",
+      "apellido1": "Vejar",
+      "apellido2": "Kruberg",
+      "trayectoria": "• Experiencia en el sector público y privado.\n• 5 años en comunicación estratégica.\n",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Universidad del Desarrollo - Periodista\n• Universidad del Desarrollo - Magíster en Comunicación Estratégica, Marketing y Negocios\n• Universidad de los Andes - Diplomado en Gestión de Personas y Liderazgo",
+      "foto": "/uploads/oc2-card-rodrigo-vargas.png",
+      "nombre": "Rodrigo",
+      "foto_modal": "/uploads/oc2-modal-rodrigo-vargas.png",
+      "apellido1": "Vargas",
+      "apellido2": "Becerra",
+      "trayectoria": "• Experiencia en comunicación estratégica, RR.SS. y marketing para empresas.\n",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Universidad de los Andes - Periodista y Licenciado en Comunicación Social, Premio excelencia Académica y distinción máxima. Mejor titulado de su generación.",
+      "foto": "/uploads/oc2-card-raphael-méndez.png",
+      "nombre": "Raphael",
+      "foto_modal": "/uploads/oc2-modal-raphael-méndez.png",
+      "apellido1": "Méndez",
+      "apellido2": "Salas",
+      "trayectoria": "• Experiencia en economía, mercados y finanzas en El Mercurio y Diario Financiero.\n",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Pontificia Universidad Católica de Chile - Periodista\n• Pontificia Universidad Católica de Chile - Licenciada en Ciencias Sociales College",
+      "foto": "/uploads/oc2-card-maría-josé-bastías.png",
+      "nombre": "María José",
+      "foto_modal": "/uploads/oc2-modal-maría-josé-bastías.png",
+      "apellido1": "Bastías",
+      "apellido2": "Sandoval",
+      "trayectoria": "• Experiencia en instituciones públicas y privadas.\n• Experiencia en investigación y documentación. \n",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Pontificia Universidad Católica - Periodista",
+      "foto": "/uploads/oc2-card-michelle-recasens.png",
+      "nombre": "Michelle",
+      "foto_modal": "/uploads/oc2-modal-michelle-recasens.png",
+      "apellido1": "Recasens",
+      "apellido2": "Vargas",
+      "trayectoria": "• Experiencia en contenidos digitales y televisión. Colaboró en CNN Chile.",
+      "cargo": "Documentación e Investigación",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Universidad de Los Andes - Periodista\n• Universidad del Desarrollo - Diplomado en Herramientas de Marketing Digital\n• ESE Business School - Certificación “Periodistas en el Mundo Financiero”",
+      "foto": "/uploads/oc2-card-nicolás-rodríguez.png",
+      "nombre": "Nicolás",
+      "foto_modal": "/uploads/oc2-modal-nicolas-rodriguez.png",
+      "apellido1": "Rodríguez",
+      "apellido2": "Chaigneau",
+      "trayectoria": "• Experiencia en comunicación estratégica, finanzas y marketing digital.",
+      "cargo": "Documentación e Investigación",
+      "linkedin": ""
+    },
+    {
+      "formacion": "",
+      "foto": "/uploads/oc2-card-marcela-sánchez.png",
+      "nombre": "Marcela",
+      "foto_modal": "/uploads/oc2-modal-marcela-sánchez.png",
+      "apellido1": "Sánchez",
+      "apellido2": "Lobos",
+      "trayectoria": "• Sin ella no pasa nada.\n",
+      "cargo": "Administradora",
+      "linkedin": ""
+    }
+  ]
+}

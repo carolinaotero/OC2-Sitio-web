@@ -1,0 +1,329 @@
+{
+  "home": {
+    "hero": {
+      "eyebrow": "LÍDERES EN COMUNICACIONES ESTRATÉGICAS",
+      "titulo_linea1": "Estrategia que",
+      "titulo_linea2": "comunica.",
+      "titulo_linea3": "Comunicación",
+      "titulo_linea4": "que posiciona.",
+      "descripcion": "Sabemos cómo hacerlo, en las distintas instancias, para todos los públicos, aprovechando oportunidades y dificultades.",
+      "cta_principal": "Escríbenos",
+      "cta_secundario": "Nuestros servicios"
+    },
+    "authority": {
+      "titulo_linea1": "Expertos. Respetados.",
+      "titulo_linea2": "Recomendados.",
+      "parrafo1": "Conocemos los contextos políticos, sociales y económicos. Entendemos la lógica de las empresas y gremios, de los medios y de los diversos actores.",
+      "parrafo2": "Llevamos 20 años generando relaciones de confianza con nuestros clientes. Nos caracteriza nuestra proactividad, mirada analítica y una ejecución que cuida hasta el menor de los detalles. Somos imbatibles en el manejo de crisis."
+    },
+    "quote": {
+      "texto": "Lo que no se comunica no existe"
+    },
+    "services": {
+      "items": [
+        {
+          "title": "Comunicaciones Estratégicas",
+          "description": "La comunicación construye reputación: la construyes o te la construyen."
+        },
+        {
+          "title": "Gestión de Crisis",
+          "description": "Tu reputación es tu activo más valioso. Nosotros la protegemos."
+        },
+        {
+          "title": "Asuntos Públicos",
+          "description": "Una reputación sólida facilita el diálogo con actores clave y abre oportunidades."
+        },
+        {
+          "title": "Talleres de Comunicación Efectiva",
+          "description": "La comunicación funciona para aquellos que la trabajan."
+        }
+      ]
+    },
+    "clients_section": {
+      "eyebrow": "Nuestros clientes: Nuestros socios",
+      "titulo_1": "Presentes en cada momento. ",
+      "titulo_2": "Comprometidos en cada decisión.",
+      "descripcion": "Trabajamos con empresas y gremios relevantes, líderes en sus respectivos sectores que, año a año, renuevan su confianza en nosotros.",
+      "cta": "Ir a clientes"
+    },
+    "team_section": {
+      "eyebrow": "Equipo",
+      "titulo_1": "Visión estratégica",
+      "titulo_2": "con ejecución impecable",
+      "cta": "Conoce a nuestro equipo"
+    },
+    "quote2": {
+      "texto": "Las preguntas no hacen daño. Solo las respuestas pueden hacerlo."
+    }
+  },
+  "nosotros": {
+    "hero": {
+      "eyebrow": "Somos",
+      "palabra1": "Pasión",
+      "palabra2": "Proactividad",
+      "palabra3": "Criterio"
+    },
+    "filosofia": {
+      "titulo_1": "Apasionados por lo que hacemos desde hace",
+      "titulo_2": "más de veinte años.",
+      "parrafo1": "os ponemos la camiseta del cliente. Los conocemos en profundidad. Su identidad la hacemos propia, de modo de proponerles respuestas, mensajes y acciones consistentes con quienes son.",
+      "parrafo2": "No somos intermediarios entre sus públicos, sino que consejeros en los efectos comunicacionales y políticos de su toma de decisiones. Discrepamos si es necesario, aunque siempre el cliente tiene la última palabra.",
+      "parrafo3": "La asesoría no la segmentamos en áreas. Todos nuestros servicios los damos de modo conjunto, porque fortalecer y cautelar la reputación no es fraccionable.",
+      "parrafo4": "Entendemos la lógica de todas las plataformas, autoridades, públicos. El común denominador para ser exitosos en todas ellas es el criterio. Y el criterio lo da el conocimiento, la información y la experiencia."
+    },
+    "quote": {
+      "texto": "La tecnología acelera procesos y cambia formatos, pero no reemplaza el criterio."
+    }
+  },
+  "servicios": {
+    "hero": {
+      "eyebrow": "NUESTROS SERVICIOS",
+      "descripcion_1": "La reputación no es lo que dices de ti mismo, sino el valor y la confianza que otros reconocen en tu organización.",
+      "descripcion_2": "Es el activo más potente para generar confianza, abrir puertas y asegurar sostenibilidad en el largo plazo. En OC2 nos aseguramos de que ese activo trabaje para ti."
+    },
+    "area1": {
+      "titulo": "Comunicaciones estratégicas",
+      "cita": "La comunicación construye reputación: la construyes o te la construyen",
+      "items_izq": [
+        {
+          "titulo": "REUNIONES ESTRATÉGICAS:",
+          "desc": "Definición de objetivos y medios para alcanzarlos."
+        },
+        {
+          "titulo": "GESTIÓN DE PRENSA:",
+          "desc": "Identificación de oportunidades. Definición de mensajes. Preparación de voceros. Relación con la prensa. Información convertida en noticia."
+        },
+        {
+          "titulo": "CREACIÓN Y AMPLIFICACIÓN DE HITOS:",
+          "desc": "Eventos con impacto comunicacional."
+        },
+        {
+          "titulo": "COMUNICACIÓN DIGITAL EN 360°:",
+          "desc": "Uso de todas las plataformas para amplificar el mensaje. Comunicación digital consistente con estrategia definida."
+        }
+      ],
+      "items_der": [
+        {
+          "titulo": "MONITOREO DE MEDIOS:",
+          "desc": "Detección de temas relevantes para la empresa y su industria."
+        },
+        {
+          "titulo": "RELATO COMUNICACIONAL:",
+          "desc": "Mensajes, cartas, columnas y discursos. Contenidos corporativos."
+        },
+        {
+          "titulo": "LINEAMIENTOS COMUNICACIÓN INTERNA:",
+          "desc": "Comunicaciones internas coherentes con estrategia externa."
+        }
+      ]
+    },
+    "area2": {
+      "titulo": "Gestión de crisis",
+      "cita": "Tu reputación es tu activo más valioso. Nosotros la protegemos. Toda crisis es una oportunidad",
+      "items_izq": [
+        "IDENTIFICACIÓN DE RIESGOS",
+        "MONITOREO Y ALERTAS",
+        "MANEJO EFICAZ"
+      ],
+      "items_der": [
+        "ACCIONES PREVENTIVAS",
+        "MANUALES DE CRISIS",
+        "LECCIONES Y MEDIDAS CORRECTIVAS"
+      ]
+    },
+    "area3": {
+      "titulo": "Asuntos públicos",
+      "cita": "Una reputación sólida facilita el diálogo con actores clave y abre oportunidades",
+      "cards": [
+        {
+          "titulo": "RELACIONAMIENTO CON GRUPOS DE INTERÉS",
+          "desc": "Gestión proactiva y estratégica con stakeholders clave."
+        },
+        {
+          "titulo": "MONITOREO LEGISLATIVO",
+          "desc": "Seguimiento detallado de procesos normativos y regulatorios."
+        },
+        {
+          "titulo": "ANÁLISIS DE COYUNTURA",
+          "desc": "Perspectiva profunda sobre el entorno económico, social y político."
+        }
+      ]
+    },
+    "area4": {
+      "titulo": "Talleres de comunicación efectiva",
+      "cita": "La comunicación funciona para aquellos que la trabajan",
+      "talleres": [
+        {
+          "nombre": "Taller de Vocería",
+          "items": [
+            "COMPRENSIÓN DE LÓGICAS DE PRENSA",
+            "TÉCNICAS PARA SER EFICAZ",
+            "ERRORES A EVITAR. ACIERTOS A REFORZAR"
+          ]
+        },
+        {
+          "nombre": "Taller de Comunicación no Verbal",
+          "items": [
+            "LENGUAJE CORPORAL PARA REFORZAR MENSAJES",
+            "IDENTIFICACIÓN DE FORTALEZAS Y DEBILIDADES"
+          ]
+        },
+        {
+          "nombre": "Taller de Manejo de Crisis",
+          "items": [
+            "MEDIDAS PREVENTIVAS",
+            "ACCIONES EN UNA CRISIS",
+            "EJEMPLOS DE CRISIS BIEN Y MAL MANEJADAS"
+          ]
+        }
+      ]
+    }
+  },
+  "clientes": {
+    "hero": {
+      "eyebrow": "somos verdaderos socios",
+      "titulo_1": "Relaciones que",
+      "titulo_2": "trascienden",
+      "descripcion": "Nuestro compromiso y conocimiento de nuestros clientes y de sus entornos hace que la mayoría permanezca con nosotros para siempre. Las relaciones con ellos son profundas y duraderas, varias se remontan a nuestros inicios."
+    },
+    "boca_a_boca": {
+      "eyebrow": "Boca a boca",
+      "titulo_1": "Nuestros clientes nos",
+      "titulo_2": "recomiendan",
+      "descripcion": "Una de nuestras mayores satisfacciones es que nuestro crecimiento se ha dado por la recomendación de nuestros clientes. Clientes nos traen clientes. Nos gusta trabajar con personas que confían en nosotros y que nosotros admiramos."
+    },
+    "sectores": {
+      "titulo_1": "Nuestros clientes hoy pertenecen a los siguientes",
+      "titulo_2": "sectores"
+    },
+    "quote": {
+      "texto": "Ningún discurso es completamente malo si es lo bastante corto."
+    }
+  },
+  "equipo": {
+    "hero": {
+      "eyebrow": "NUESTRO EQUIPO",
+      "titulo_linea1": "Visión estratégica",
+      "titulo_linea2": "con ejecución",
+      "titulo_linea3": "impecable"
+    },
+    "intro": {
+      "parrafo1": "Conocemos los contextos políticos, sociales y económicos. Entendemos la lógica de las empresas, los medios y los actores.",
+      "parrafo2": "Nos caracteriza la proactividad, la mirada analítica y una ejecución que cuida hasta el menor de los detalles. Somos imbatibles en el manejo de crisis."
+    },
+    "socias_titulo": "Socias",
+    "equipo_titulo": "Equipo",
+    "quote": {
+      "texto": "Un solo equipo"
+    }
+  },
+  "maximas": {
+    "hero": {
+      "eyebrow": "Máximas",
+      "titulo_1": "Nuestro sello",
+      "titulo_2": "en frases"
+    },
+    "secciones": [
+      {
+        "titulo": "El discurso",
+        "citas": [
+          {
+            "texto": "Un discurso de diez minutos toma un par de semanas; el de una hora, una semana, y el de dos horas siempre se puede improvisar",
+            "autor": "Harold Wilson"
+          },
+          {
+            "texto": "La habilidad de simplificar significa eliminar lo innecesario para que lo necesario pueda hablar",
+            "autor": "Hans Hofmann, Pintor"
+          },
+          {
+            "texto": "Me he pasado toda la noche preparando la improvisación de mañana",
+            "autor": "Winston Churchill"
+          },
+          {
+            "texto": "Lamento un discurso tan largo. No tuve tiempo de hacerlo más corto",
+            "autor": "Mark Twain"
+          }
+        ]
+      },
+      {
+        "titulo": "Comunicar",
+        "citas": [
+          {
+            "texto": "Las audiencias olvidan los hechos, pero recuerdan actitudes e historias",
+            "autor": "Joseph Campbell"
+          },
+          {
+            "texto": "Decir lo mismo una y otra vez es aburrido, pero funciona",
+            "autor": "Michael Deaver, Asesor de Reagan"
+          },
+          {
+            "texto": "No hay que decir todo lo que se piensa, pero siempre hay que pensar todo lo que se dice",
+            "autor": "Aristóteles"
+          },
+          {
+            "texto": "¿Alguien tiene las preguntas para mis respuestas?",
+            "autor": "Henry Kissinger"
+          },
+          {
+            "texto": "En caso de duda, cuenta la verdad",
+            "autor": "Mark Twain"
+          },
+          {
+            "texto": "Miradas, sonrisas, silencios, también hablan",
+            "autor": ""
+          }
+        ]
+      },
+      {
+        "titulo": "Prensa",
+        "citas": [
+          {
+            "texto": "Siempre es un riesgo hablar con la prensa: suelen publicar lo que dices",
+            "autor": "Oscar Wilde"
+          },
+          {
+            "texto": "Si se va a conocer con el tiempo, mejor que se conozca de inmediato",
+            "autor": "Henry Kissinger"
+          },
+          {
+            "texto": "Si tú no cuentas tu historia, otro lo hará",
+            "autor": "Frank X. Walker"
+          },
+          {
+            "texto": "Nunca digas nada que no te gustaría ver publicado",
+            "autor": "Warren Buffet"
+          }
+        ]
+      },
+      {
+        "titulo": "Democracia & Periodismo",
+        "citas": [
+          {
+            "texto": "Si tuviera que decidir si debemos tener un gobierno sin periódicos o periódicos sin gobierno, no dudaría en preferir lo segundo",
+            "autor": "Thomas Jefferson"
+          },
+          {
+            "texto": "Sin publicidad no puede haber apoyo público, y sin apoyo público, todas las naciones decaen",
+            "autor": "Benjamin Disraeli"
+          },
+          {
+            "texto": "La libertad de prensa no solo es importante para la democracia, es la democracia",
+            "autor": "Walter Cronkite"
+          },
+          {
+            "texto": "No estoy de acuerdo con lo que dices, pero defenderé con mi vida tu derecho a expresarlo",
+            "autor": "Voltaire"
+          }
+        ]
+      }
+    ]
+  },
+  "contacto": {
+    "eyebrow": "HABLEMOS",
+    "titulo_1": "Déjanos",
+    "titulo_2": "tu mensaje",
+    "direccion": "Nueva Costanera 3300,\nOficina 33, Vitacura\nSantiago, Chile",
+    "email": "info@oc2.cl",
+    "telefono": "+562 2384 9780"
+  }
+}

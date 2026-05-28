@@ -1,0 +1,373 @@
+backend:
+  name: git-gateway
+
+local_backend: true
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+
+  # ──────────────────────────────────────────────────────────────
+  # EQUIPO — edita equipo.json (socias + resto del equipo + fotos)
+  # ──────────────────────────────────────────────────────────────
+  - name: "equipo"
+    label: "👥 Equipo"
+    files:
+      - name: "equipo"
+        label: "Miembros del Equipo"
+        file: "src/content/equipo.json"
+        fields:
+          - name: socias
+            label: "Socias"
+            widget: list
+            summary: "{{fields.nombre}} {{fields.apellido1}} — {{fields.cargo}}"
+            fields:
+              - { name: nombre,    label: "Nombre",     widget: string }
+              - { name: apellido1, label: "Apellido 1", widget: string }
+              - { name: apellido2, label: "Apellido 2", widget: string, required: false, default: "" }
+              - { name: cargo,     label: "Cargo",      widget: string }
+              - { name: trayectoria, label: "Trayectoria profesional", widget: text }
+              - { name: formacion,   label: "Formación académica",    widget: text, required: false, default: "" }
+              - { name: linkedin,    label: "URL de LinkedIn",         widget: string, required: false, default: "", hint: "Ej: https://www.linkedin.com/in/nombre-apellido/" }
+              - { name: contacto,    label: "Email de contacto",       widget: string, required: false, default: "" }
+              - { name: foto,       label: "Foto (card)",  widget: image, choose_url: false, hint: "Medidas: 800px de ancho × 916px de alto" }
+              - { name: foto_modal, label: "Foto (modal)", widget: image, choose_url: false, hint: "Medidas: 800px de ancho × 1200px de alto" }
+
+          - name: equipo
+            label: "Resto del Equipo"
+            widget: list
+            summary: "{{fields.nombre}} {{fields.apellido1}} — {{fields.cargo}}"
+            fields:
+              - { name: nombre,    label: "Nombre",     widget: string }
+              - { name: apellido1, label: "Apellido 1", widget: string }
+              - { name: apellido2, label: "Apellido 2", widget: string, required: false, default: "" }
+              - { name: cargo,     label: "Cargo",      widget: string }
+              - { name: trayectoria, label: "Trayectoria profesional", widget: text }
+              - { name: formacion,   label: "Formación académica",    widget: text, required: false, default: "" }
+              - { name: foto,       label: "Foto (card)",  widget: image, choose_url: false, hint: "Medidas: 800px de ancho × 916px de alto" }
+              - { name: foto_modal, label: "Foto (modal)", widget: image, choose_url: false, hint: "Medidas: 800px de ancho × 1200px de alto" }
+
+  # ──────────────────────────────────────────────────────────────
+  # TEXTOS — edita textos.json (todos los textos del sitio)
+  # ──────────────────────────────────────────────────────────────
+  - name: "textos"
+    label: "✏️ Textos del Sitio"
+    files:
+      - name: "textos"
+        label: "Contenido del Sitio"
+        file: "src/content/textos.json"
+        fields:
+
+          # ── HOME ───────────────────────────────────────────────
+          - name: home
+            label: "🏠 Home"
+            widget: object
+            collapsed: true
+            fields:
+
+              - name: hero
+                label: "Hero"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,       label: "Eyebrow (tag superior)",        widget: string }
+                  - { name: titulo_linea1, label: "Título línea 1",                widget: string }
+                  - { name: titulo_linea2, label: "Título línea 2",                widget: string }
+                  - { name: titulo_linea3, label: "Título línea 3 — itálica dorada", widget: string }
+                  - { name: titulo_linea4, label: "Título línea 4 — itálica dorada", widget: string }
+                  - { name: descripcion,   label: "Párrafo descriptivo",            widget: text }
+                  - { name: cta_principal, label: "Botón principal",               widget: string }
+                  - { name: cta_secundario, label: "Botón secundario",             widget: string }
+
+              - name: authority
+                label: "Sección Autoridad"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo_linea1, label: "Título línea 1", widget: string }
+                  - { name: titulo_linea2, label: "Título línea 2", widget: string }
+                  - { name: parrafo1,      label: "Párrafo 1",      widget: text }
+                  - { name: parrafo2,      label: "Párrafo 2",      widget: text }
+
+              - name: quote
+                label: "Cita 1"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: texto, label: "Texto de la cita (sin comillas)", widget: text }
+
+              - name: services
+                label: "Sección Servicios"
+                widget: object
+                collapsed: true
+                fields:
+                  - name: items
+                    label: "Ítems de servicio"
+                    widget: list
+                    summary: "{{fields.title}}"
+                    fields:
+                      - { name: title,       label: "Título",      widget: string }
+                      - { name: description, label: "Descripción", widget: text }
+
+              - name: clients_section
+                label: "Sección Clientes"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,    label: "Eyebrow",           widget: string }
+                  - { name: titulo_1,   label: "Título 1",           widget: string }
+                  - { name: titulo_2,   label: "Título 2 — itálica dorada", widget: string }
+                  - { name: descripcion, label: "Descripción",       widget: text }
+                  - { name: cta,        label: "Texto del botón",    widget: string }
+
+              - name: team_section
+                label: "Sección Equipo"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,  label: "Eyebrow",           widget: string }
+                  - { name: titulo_1, label: "Título 1",           widget: string }
+                  - { name: titulo_2, label: "Título 2",           widget: string }
+                  - { name: cta,      label: "Texto del botón",    widget: string }
+
+              - name: quote2
+                label: "Cita 2"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: texto, label: "Texto de la cita (sin comillas)", widget: text }
+
+          # ── NOSOTROS ────────────────────────────────────────────
+          - name: nosotros
+            label: "🧭 Nosotros"
+            widget: object
+            collapsed: true
+            fields:
+
+              - name: hero
+                label: "Hero"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow, label: "Eyebrow (ej: Somos)", widget: string }
+                  - { name: palabra1, label: "Palabra 1", widget: string }
+                  - { name: palabra2, label: "Palabra 2", widget: string }
+                  - { name: palabra3, label: "Palabra 3 — itálica dorada", widget: string }
+
+              - name: filosofia
+                label: "Filosofía"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo_1, label: "Título (primera parte)",                    widget: string }
+                  - { name: titulo_2, label: "Título (segunda parte, itálica dorada)",    widget: string }
+                  - { name: parrafo1, label: "Párrafo 1 — omitir la N inicial (se muestra como gráfico)", widget: text }
+                  - { name: parrafo2, label: "Párrafo 2", widget: text }
+                  - { name: parrafo3, label: "Párrafo 3", widget: text }
+                  - { name: parrafo4, label: "Párrafo 4", widget: text }
+
+              - name: quote
+                label: "Cita"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: texto, label: "Texto de la cita (sin comillas)", widget: text }
+
+          # ── SERVICIOS ───────────────────────────────────────────
+          - name: servicios
+            label: "🛠 Servicios"
+            widget: object
+            collapsed: true
+            fields:
+
+              - name: hero
+                label: "Introducción"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,       label: "Eyebrow (tag superior)", widget: string }
+                  - { name: descripcion_1, label: "Párrafo 1 (tarjeta lateral)", widget: text }
+                  - { name: descripcion_2, label: "Párrafo 2 (tarjeta lateral)", widget: text }
+
+              - name: area1
+                label: "Área 1 — Comunicaciones Estratégicas"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo, label: "Título del área", widget: string }
+                  - { name: cita,   label: "Cita destacada (sin comillas)", widget: text }
+                  - name: items_izq
+                    label: "Ítems columna izquierda"
+                    widget: list
+                    summary: "{{fields.titulo}}"
+                    fields:
+                      - { name: titulo, label: "Título del ítem", widget: string }
+                      - { name: desc,   label: "Descripción",     widget: text }
+                  - name: items_der
+                    label: "Ítems columna derecha"
+                    widget: list
+                    summary: "{{fields.titulo}}"
+                    fields:
+                      - { name: titulo, label: "Título del ítem", widget: string }
+                      - { name: desc,   label: "Descripción",     widget: text }
+
+              - name: area2
+                label: "Área 2 — Gestión de Crisis"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo, label: "Título del área", widget: string }
+                  - { name: cita,   label: "Cita destacada (sin comillas)", widget: text }
+                  - { name: items_izq, label: "Ítems columna izquierda", widget: list, field: { name: item, label: "Ítem", widget: string } }
+                  - { name: items_der, label: "Ítems columna derecha",   widget: list, field: { name: item, label: "Ítem", widget: string } }
+
+              - name: area3
+                label: "Área 3 — Asuntos Públicos"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo, label: "Título del área", widget: string }
+                  - { name: cita,   label: "Cita destacada (sin comillas)", widget: text }
+                  - name: cards
+                    label: "Tarjetas"
+                    widget: list
+                    summary: "{{fields.titulo}}"
+                    fields:
+                      - { name: titulo, label: "Título de la tarjeta", widget: string }
+                      - { name: desc,   label: "Descripción",          widget: text }
+
+              - name: area4
+                label: "Área 4 — Talleres"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo, label: "Título del área", widget: string }
+                  - { name: cita,   label: "Cita destacada (sin comillas)", widget: text }
+                  - name: talleres
+                    label: "Talleres"
+                    widget: list
+                    summary: "{{fields.nombre}}"
+                    fields:
+                      - { name: nombre, label: "Nombre del taller", widget: string }
+                      - { name: items,  label: "Contenidos", widget: list, field: { name: item, label: "Ítem", widget: string } }
+
+          # ── CLIENTES ────────────────────────────────────────────
+          - name: clientes
+            label: "🤝 Clientes"
+            widget: object
+            collapsed: true
+            fields:
+
+              - name: hero
+                label: "Hero"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,    label: "Eyebrow",                    widget: string }
+                  - { name: titulo_1,   label: "Título 1",                   widget: string }
+                  - { name: titulo_2,   label: "Título 2 — itálica dorada",  widget: string }
+                  - { name: descripcion, label: "Descripción",               widget: text }
+
+              - name: boca_a_boca
+                label: "Boca a Boca"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,    label: "Eyebrow",                    widget: string }
+                  - { name: titulo_1,   label: "Título 1",                   widget: string }
+                  - { name: titulo_2,   label: "Título 2 — itálica dorada",  widget: string }
+                  - { name: descripcion, label: "Descripción",               widget: text }
+
+              - name: sectores
+                label: "Grilla de Sectores"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: titulo_1, label: "Título 1",                   widget: string }
+                  - { name: titulo_2, label: "Título 2 — itálica dorada",  widget: string }
+
+              - name: quote
+                label: "Cita"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: texto, label: "Texto de la cita (sin comillas)", widget: text }
+
+          # ── EQUIPO (textos) ──────────────────────────────────────
+          - name: equipo
+            label: "👥 Equipo (textos)"
+            widget: object
+            collapsed: true
+            fields:
+
+              - name: hero
+                label: "Hero"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,       label: "Eyebrow",        widget: string }
+                  - { name: titulo_linea1, label: "Título línea 1", widget: string }
+                  - { name: titulo_linea2, label: "Título línea 2", widget: string }
+                  - { name: titulo_linea3, label: "Título línea 3 — itálica dorada", widget: string }
+
+              - name: intro
+                label: "Intro"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: parrafo1, label: "Párrafo 1", widget: text }
+                  - { name: parrafo2, label: "Párrafo 2", widget: text }
+
+              - { name: socias_titulo, label: "Título de la sección Socias", widget: string }
+              - { name: equipo_titulo, label: "Título de la sección Equipo", widget: string }
+
+              - name: quote
+                label: "Cita"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: texto, label: "Texto de la cita (sin comillas)", widget: text }
+
+          # ── MÁXIMAS ─────────────────────────────────────────────
+          - name: maximas
+            label: "💬 Máximas"
+            widget: object
+            collapsed: true
+            fields:
+
+              - name: hero
+                label: "Hero"
+                widget: object
+                collapsed: true
+                fields:
+                  - { name: eyebrow,  label: "Eyebrow",                   widget: string }
+                  - { name: titulo_1, label: "Título 1",                  widget: string }
+                  - { name: titulo_2, label: "Título 2 — itálica dorada", widget: string }
+
+              - name: secciones
+                label: "Secciones de citas"
+                widget: list
+                summary: "{{fields.titulo}}"
+                fields:
+                  - { name: titulo, label: "Título de la sección", widget: string }
+                  - name: citas
+                    label: "Citas"
+                    widget: list
+                    summary: "{{fields.autor}} — {{fields.texto}}"
+                    fields:
+                      - { name: texto, label: "Texto (sin comillas)", widget: text }
+                      - { name: autor, label: "Autor (vacío si es anónimo)", widget: string, required: false, default: "" }
+
+          # ── CONTACTO ────────────────────────────────────────────
+          - name: contacto
+            label: "📬 Contacto"
+            widget: object
+            collapsed: true
+            fields:
+              - { name: eyebrow,   label: "Eyebrow (tag superior)",         widget: string }
+              - { name: titulo_1,  label: "Título línea 1",                 widget: string }
+              - { name: titulo_2,  label: "Título línea 2 — itálica dorada", widget: string }
+              - { name: direccion, label: "Dirección (saltos de línea con Enter)", widget: text }
+              - { name: email,     label: "Email",                          widget: string }
+              - { name: telefono,  label: "Teléfono",                       widget: string }

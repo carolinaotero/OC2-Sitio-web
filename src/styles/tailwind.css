@@ -1,0 +1,15 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@theme {
+  --font-sans: 'Manrope', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Newsreader', ui-serif, Georgia, serif;
+}
+
+@layer base {
+  body {
+    background-color: #FBF9F3;
+  }
+}
+
+@import 'tw-animate-css';
