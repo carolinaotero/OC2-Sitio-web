@@ -49,7 +49,14 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(git remote *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(cp \"oc2-card-ximena-díaz.png\" \"oc2-card-ximena-diaz.png\")",
+      "Bash(cp \"oc2-modal-ximena-díaz.png\" \"oc2-modal-ximena-diaz.png\")",
+      "Bash(cp \"oc2-card-paula-gonzález.png\" \"oc2-card-paula-gonzalez.png\")",
+      "Bash(cp \"oc2-modal-paula-gonzález.png\" \"oc2-modal-paula-gonzalez.png\")",
+      "Bash(cp \"oc2-card-raphael-méndez.png\" \"oc2-card-raphael-mendez.png\")",
+      "Bash(git commit *)",
+      "Bash(python3)"
     ]
   }
 }
