@@ -54,7 +54,7 @@ export function Team() {
         </FadeUp>
 
         {/* Cards Grid */}
-        <div className="flex flex-wrap gap-6 justify-center w-full">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6 w-full">
           {socias.map((member, index) => (
             <FadeUp key={index} delay={index * 0.1}>
               <MemberCard member={member} onClick={setSelectedMember} />
