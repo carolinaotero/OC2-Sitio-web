@@ -1,0 +1,59 @@
+{
+  "home": {
+    "hero": {
+      "eyebrow": "LÍDERES EN COMUNICACIONES ESTRATÉGICAS",
+      "titulo_linea1": "Estrategia que",
+      "titulo_linea2": "comunica.",
+      "titulo_linea3": "Comunicación",
+      "titulo_linea4": "que posiciona.",
+      "descripcion": "Sabemos cómo hacerlo, en las distintas instancias, para todos los públicos, aprovechando oportunidades y dificultades.",
+      "cta_principal": "Escríbenos",
+      "cta_secundario": "Nuestros servicios"
+    },
+    "authority": {
+      "titulo_linea1": "Expertos. Respetados.",
+      "titulo_linea2": "Recomendados.",
+      "parrafo1": "Conocemos los contextos políticos, sociales y económicos. Entendemos la lógica de las empresas y gremios, de los medios y de los diversos actores.",
+      "parrafo2": "Llevamos más de 20 años generando relaciones de confianza con nuestros clientes. Nos caracteriza nuestra proactividad, mirada analítica y una ejecución que cuida hasta el menor de los detalles. Somos imbatibles en el manejo de crisis."
+    },
+    "quote": {
+      "texto": "Lo que no se comunica no existe"
+    },
+    "services": {
+      "items": [
+        {
+          "title": "Comunicaciones Estratégicas",
+          "description": "La comunicación construye reputación: la construyes o te la construyen."
+        },
+        {
+          "title": "Gestión de Crisis",
+          "description": "Tu reputación es tu activo más valioso. Nosotros la protegemos."
+        },
+        {
+          "title": "Asuntos Públicos",
+          "description": "Una reputación sólida facilita el diálogo con actores clave y abre oportunidades."
+        },
+        {
+          "title": "Talleres de Comunicación Efectiva",
+          "description": "La comunicación funciona para aquellos que la trabajan."
+        }
+      ]
+    },
+    "clients_section": {
+      "eyebrow": "Nuestros clientes: Nuestros socios",
+      "titulo_1": "Presentes en cada momento. ",
+      "titulo_2": "Comprometidos en cada decisión.",
+      "descripcion": "Trabajamos con empresas y gremios relevantes, líderes en sus respectivos sectores que, año a año, renuevan su confianza en nosotros.",
+      "cta": "Ir a clientes"
+    },
+    "team_section": {
+      "eyebrow": "Equipo",
+      "titulo_1": "Visión estratégica",
+      "titulo_2": "con ejecución impecable",
+      "cta": "Conoce a nuestro equipo"
+    },
+    "quote2": {
+      "texto": "Las preguntas no hacen daño. Solo las respuestas pueden hacerlo."
+    }
+  }
+}

@@ -3,7 +3,7 @@ import { usePageTitle } from "../hooks/usePageTitle";
 import svgPaths from "../imports/Nosotros-1/svg-4mdnwotgja";
 import imgNosotrosEstrategia1 from "../imports/Nosotros-1/nosotros-estrategia-ajedrez.webp";
 import imgNosotrosEstrategia1Svg from "../imports/Nosotros-1/nosotros-estrategia-ajedrez.svg";
-import textos from '../content/textos.json';
+import textos from '../content/textos-nosotros.json';
 import { FadeUp } from "../components/ScrollReveal";
 
 function HeroSection() {

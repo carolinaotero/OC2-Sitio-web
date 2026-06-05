@@ -1,0 +1,106 @@
+{
+  "servicios": {
+    "hero": {
+      "eyebrow": "NUESTROS SERVICIOS",
+      "descripcion_1": "La reputación no es lo que dices de ti mismo, sino el valor y la confianza que otros reconocen en tu organización.",
+      "descripcion_2": "Es el activo más potente para generar confianza, abrir puertas y asegurar sostenibilidad en el largo plazo. En OC2 nos aseguramos de que ese activo trabaje para ti."
+    },
+    "area1": {
+      "titulo": "Comunicaciones estratégicas",
+      "cita": "La comunicación construye reputación: la construyes o te la construyen",
+      "items_izq": [
+        {
+          "titulo": "REUNIONES ESTRATÉGICAS:",
+          "desc": "Definición de objetivos y medios para alcanzarlos."
+        },
+        {
+          "titulo": "GESTIÓN DE PRENSA:",
+          "desc": "Identificación de oportunidades. Definición de mensajes. Preparación de voceros. Relación con la prensa. Información convertida en noticia."
+        },
+        {
+          "titulo": "CREACIÓN Y AMPLIFICACIÓN DE HITOS:",
+          "desc": "Eventos con impacto comunicacional."
+        },
+        {
+          "titulo": "COMUNICACIÓN EN 360°:",
+          "desc": "Uso de todas las plataformas para amplificar el mensaje. Comunicación digital consistente con estrategia definida."
+        }
+      ],
+      "items_der": [
+        {
+          "titulo": "MONITOREO DE MEDIOS:",
+          "desc": "Detección de temas relevantes para la empresa y su industria."
+        },
+        {
+          "titulo": "RELATO COMUNICACIONAL:",
+          "desc": "Mensajes, cartas, columnas y discursos. Contenidos corporativos."
+        },
+        {
+          "titulo": "LINEAMIENTOS COMUNICACIÓN INTERNA:",
+          "desc": "Comunicaciones internas coherentes con estrategia externa."
+        }
+      ]
+    },
+    "area2": {
+      "titulo": "Gestión de crisis",
+      "cita": "Tu reputación es tu activo más valioso. Nosotros la protegemos. Toda crisis es una oportunidad",
+      "items_izq": [
+        "IDENTIFICACIÓN DE RIESGOS",
+        "MONITOREO Y ALERTAS",
+        "MANEJO EFICAZ"
+      ],
+      "items_der": [
+        "ACCIONES PREVENTIVAS",
+        "MANUALES DE CRISIS",
+        "LECCIONES Y MEDIDAS CORRECTIVAS"
+      ]
+    },
+    "area3": {
+      "titulo": "Asuntos públicos",
+      "cita": "Una reputación sólida facilita el diálogo con actores clave y abre oportunidades",
+      "cards": [
+        {
+          "titulo": "RELACIONAMIENTO CON GRUPOS DE INTERÉS",
+          "desc": "Gestión proactiva y estratégica con stakeholders clave."
+        },
+        {
+          "titulo": "MONITOREO LEGISLATIVO",
+          "desc": "Seguimiento detallado de procesos normativos y regulatorios."
+        },
+        {
+          "titulo": "ANÁLISIS DE COYUNTURA",
+          "desc": "Perspectiva profunda sobre el entorno económico, social y político."
+        }
+      ]
+    },
+    "area4": {
+      "titulo": "Talleres de comunicación efectiva",
+      "cita": "La comunicación funciona para aquellos que la trabajan",
+      "talleres": [
+        {
+          "nombre": "Taller de Vocería",
+          "items": [
+            "COMPRENSIÓN DE LÓGICAS DE PRENSA",
+            "TÉCNICAS PARA SER EFICAZ",
+            "ERRORES A EVITAR. ACIERTOS A REFORZAR"
+          ]
+        },
+        {
+          "nombre": "Taller de Comunicación no Verbal",
+          "items": [
+            "LENGUAJE CORPORAL PARA REFORZAR MENSAJES",
+            "IDENTIFICACIÓN DE FORTALEZAS Y DEBILIDADES"
+          ]
+        },
+        {
+          "nombre": "Taller de Manejo de Crisis",
+          "items": [
+            "MEDIDAS PREVENTIVAS",
+            "ACCIONES EN UNA CRISIS",
+            "EJEMPLOS DE CRISIS BIEN Y MAL MANEJADAS"
+          ]
+        }
+      ]
+    }
+  }
+}

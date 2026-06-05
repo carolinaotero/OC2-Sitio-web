@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import svgPaths from "../imports/ServicesSection/svg-loy93fl2rf";
 import { FadeUp } from "./ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 
 export function Services() {
   const serviceIcons = [

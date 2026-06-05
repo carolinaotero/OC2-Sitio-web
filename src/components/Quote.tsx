@@ -1,6 +1,6 @@
 import svgPaths from "../imports/QuoteSection/svg-flyryzreio";
 import { FadeUp } from "./ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 
 export function Quote() {
   const q = textos.home.quote;

@@ -5,7 +5,7 @@ import svgPaths from "../imports/SectionTeamPreviewCarruselVisualRepresentation/
 import equipoData from '../content/equipo.json';
 import { FadeUp } from "./ScrollReveal";
 import { Member, mapMember, MemberCard, MemberModal } from "./TeamMemberCard";
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 
 const dividerKeys = ['p19fc8980', 'p3fd9c180', 'p2a824f80', 'p10cf300', 'p23c7c900', 'p33d5ebf0'];
 const backgroundPaths = Object.entries(svgPaths).filter(([key]) => !dividerKeys.includes(key));

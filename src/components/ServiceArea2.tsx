@@ -1,7 +1,7 @@
 import React from 'react';
 import imgPrensaArea2 from '../imports/Area2GestionDeCrisis/gestion-de-crisis.webp';
 import imgPrensaArea2Svg from '../imports/Area2GestionDeCrisis/gestion-de-crisis.svg';
-import textos from '../content/textos.json';
+import textos from '../content/textos-servicios.json';
 import { FadeUp } from "./ScrollReveal";
 
 export function ServiceArea2() {

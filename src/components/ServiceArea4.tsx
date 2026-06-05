@@ -1,6 +1,6 @@
 import React from 'react';
 import imgDiscursoArea4 from '../imports/Area4TalleresDeComunicacionEfectiva/talleres-de-comunicacion-efectiva.svg';
-import textos from '../content/textos.json';
+import textos from '../content/textos-servicios.json';
 import { FadeUp } from "./ScrollReveal";
 
 export function ServiceArea4() {

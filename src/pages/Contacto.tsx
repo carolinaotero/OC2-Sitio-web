@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { usePageTitle } from "../hooks/usePageTitle";
-import textos from '../content/textos.json';
+import textos from '../content/textos-contacto.json';
 import { motion, AnimatePresence } from 'motion/react';
 import { FadeUp } from '../components/ScrollReveal';
 import { MapPin, Phone, Mail, Rss, CheckCircle2, AlertCircle } from 'lucide-react';

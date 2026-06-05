@@ -1,6 +1,6 @@
 import React from 'react';
 import imgComunicar from '../imports/Area1ComunicacionesEstrategicas/comunicaciones-estrategicas.svg';
-import textos from '../content/textos.json';
+import textos from '../content/textos-servicios.json';
 
 type Item = { titulo: string; desc: string };
 

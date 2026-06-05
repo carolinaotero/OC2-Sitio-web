@@ -6,7 +6,7 @@ import imgPrensaWebp from "../imports/Section3Press-1/prensa.webp";
 import imgPrensaSVG from "../imports/Section3Press-1/prensa.svg";
 import imgDemocracySVG from "../imports/Section2Communication-1/democracia-y-periodismo.svg";
 import { FadeUp } from "../components/ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-maximas.json";
 
 function HeroSection() {
   const h = textos.maximas.hero;

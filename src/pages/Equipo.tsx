@@ -6,7 +6,7 @@ import { Member, mapMember, MemberCard, MemberModal } from "../components/TeamMe
 import imgHero from "../imports/Equipo/socias-hero.svg";
 import imgOficina from "../imports/Equipo/equipo-oficina.jpg";
 import equipoData from '../content/equipo.json';
-import textos from '../content/textos.json';
+import textos from '../content/textos-equipo.json';
 
 const socias: Member[] = equipoData.socias.map(mapMember);
 const equipo: Member[] = equipoData.equipo.map(mapMember);

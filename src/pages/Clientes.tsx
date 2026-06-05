@@ -2,7 +2,7 @@ import React from 'react';
 import { usePageTitle } from "../hooks/usePageTitle";
 import svgPaths from "../imports/QuoteSection-1/svg-ewuvyw2w5u";
 import { FadeUp } from "../components/ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-clientes.json";
 
 import imgTiempoClientes1 from "../imports/HeroSectionPerspectiveSplit-7/tiempo-clientes.webp";
 import imgTiempoClientes1Svg from "../imports/HeroSectionPerspectiveSplit-7/tiempo-clientes.svg";

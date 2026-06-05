@@ -1,5 +1,5 @@
 import React from 'react';
-import textos from '../content/textos.json';
+import textos from '../content/textos-servicios.json';
 import { FadeUp } from "./ScrollReveal";
 
 export function ServicesHero() {

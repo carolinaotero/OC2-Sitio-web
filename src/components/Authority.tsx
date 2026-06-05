@@ -1,7 +1,7 @@
 import authBg from "../imports/AuthoritySection/0c0908109defe5c11d5af7b03dd4cbb3744bb68e.png";
 import manoOkHome from "../imports/AuthoritySection/mano-ok-home.svg";
 import { FadeUp } from "./ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 
 export function Authority() {
   const a = textos.home.authority;

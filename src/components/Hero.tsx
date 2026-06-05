@@ -1,4 +1,4 @@
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 import { FadeUp } from "./ScrollReveal";
 import ilustracion from "../imports/comunicaciones-estrategicas.svg";
 

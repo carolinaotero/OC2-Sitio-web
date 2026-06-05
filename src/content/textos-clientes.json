@@ -1,0 +1,23 @@
+{
+  "clientes": {
+    "hero": {
+      "eyebrow": "somos verdaderos socios",
+      "titulo_1": "Relaciones que",
+      "titulo_2": "trascienden",
+      "descripcion": "Nuestro compromiso y conocimiento de nuestros clientes y de sus entornos hace que la mayoría permanezca con nosotros para siempre. Las relaciones con ellos son profundas y duraderas, varias se remontan a nuestros inicios."
+    },
+    "boca_a_boca": {
+      "eyebrow": "Boca a boca",
+      "titulo_1": "Nuestros clientes nos",
+      "titulo_2": "recomiendan",
+      "descripcion": "Una de nuestras mayores satisfacciones es que nuestro crecimiento se ha dado por la recomendación de nuestros clientes. Clientes nos traen clientes. Nos gusta trabajar con personas que confían en nosotros y que nosotros admiramos."
+    },
+    "sectores": {
+      "titulo_1": "Nuestros clientes hoy pertenecen a los siguientes",
+      "titulo_2": "sectores"
+    },
+    "quote": {
+      "texto": "Ningún discurso es completamente malo si es lo bastante corto."
+    }
+  }
+}

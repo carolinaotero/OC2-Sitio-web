@@ -3,7 +3,7 @@ import { useNavigate } from "react-router";
 import { Button } from "./Button";
 import manosSocios from "../imports/ClientsSection-2/manos-socios.svg";
 import { FadeUp } from "./ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 
 export function Clients() {
   const navigate = useNavigate();

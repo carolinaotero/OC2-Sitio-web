@@ -1,6 +1,6 @@
 import svgPaths from "../imports/Quote-2/svg-ngxwb19akp";
 import { FadeUp } from "./ScrollReveal";
-import textos from "../content/textos.json";
+import textos from "../content/textos-home.json";
 
 const dividerKeys = ['p20a59200', 'p22545f00'];
 

@@ -2,7 +2,7 @@ import React from 'react';
 import imgDemocraciaArea3 from '../imports/Area3AsuntosPublicos-1/asuntos-publicos.webp';
 import imgDemocraciaArea3Svg from '../imports/Area3AsuntosPublicos-1/asuntos-publicos.svg';
 import svgPathsArea3 from '../imports/Area3AsuntosPublicos-1/svg-w8w1tmwdnc';
-import textos from '../content/textos.json';
+import textos from '../content/textos-servicios.json';
 import { FadeUp } from "./ScrollReveal";
 
 const cardIcons = [

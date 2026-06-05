@@ -1,0 +1,19 @@
+{
+  "equipo": {
+    "hero": {
+      "eyebrow": "NUESTRO EQUIPO",
+      "titulo_linea1": "Visión estratégica",
+      "titulo_linea2": "con ejecución",
+      "titulo_linea3": "impecable"
+    },
+    "intro": {
+      "parrafo1": "Conocemos los contextos políticos, sociales y económicos. Entendemos la lógica de las empresas, los medios y los actores.",
+      "parrafo2": "Nos caracteriza la proactividad, la mirada analítica y una ejecución que cuida hasta el menor de los detalles. Somos imbatibles en el manejo de crisis."
+    },
+    "socias_titulo": "Socias",
+    "equipo_titulo": "Equipo",
+    "quote": {
+      "texto": "Un solo equipo"
+    }
+  }
+}

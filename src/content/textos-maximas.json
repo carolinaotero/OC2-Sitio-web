@@ -1,0 +1,103 @@
+{
+  "maximas": {
+    "hero": {
+      "eyebrow": "Máximas",
+      "titulo_1": "Nuestro sello",
+      "titulo_2": "en frases"
+    },
+    "secciones": [
+      {
+        "titulo": "El discurso",
+        "citas": [
+          {
+            "texto": "Un discurso de diez minutos toma un par de semanas; el de una hora, una semana, y el de dos horas siempre se puede improvisar",
+            "autor": "Harold Wilson"
+          },
+          {
+            "texto": "La habilidad de simplificar significa eliminar lo innecesario para que lo necesario pueda hablar",
+            "autor": "Hans Hofmann, Pintor"
+          },
+          {
+            "texto": "Me he pasado toda la noche preparando la improvisación de mañana",
+            "autor": "Winston Churchill"
+          },
+          {
+            "texto": "Lamento un discurso tan largo. No tuve tiempo de hacerlo más corto",
+            "autor": "Mark Twain"
+          }
+        ]
+      },
+      {
+        "titulo": "Comunicar",
+        "citas": [
+          {
+            "texto": "Las audiencias olvidan los hechos, pero recuerdan actitudes e historias",
+            "autor": "Joseph Campbell"
+          },
+          {
+            "texto": "Decir lo mismo una y otra vez es aburrido, pero funciona",
+            "autor": "Michael Deaver, Asesor de Reagan"
+          },
+          {
+            "texto": "No hay que decir todo lo que se piensa, pero siempre hay que pensar todo lo que se dice",
+            "autor": "Aristóteles"
+          },
+          {
+            "texto": "¿Alguien tiene las preguntas para mis respuestas?",
+            "autor": "Henry Kissinger"
+          },
+          {
+            "texto": "En caso de duda, cuenta la verdad",
+            "autor": "Mark Twain"
+          },
+          {
+            "texto": "Miradas, sonrisas, silencios, también hablan",
+            "autor": ""
+          }
+        ]
+      },
+      {
+        "titulo": "Prensa",
+        "citas": [
+          {
+            "texto": "Siempre es un riesgo hablar con la prensa: suelen publicar lo que dices",
+            "autor": "Oscar Wilde"
+          },
+          {
+            "texto": "Si se va a conocer con el tiempo, mejor que se conozca de inmediato",
+            "autor": "Henry Kissinger"
+          },
+          {
+            "texto": "Si tú no cuentas tu historia, otro lo hará",
+            "autor": "Frank X. Walker"
+          },
+          {
+            "texto": "Nunca digas nada que no te gustaría ver publicado",
+            "autor": "Warren Buffet"
+          }
+        ]
+      },
+      {
+        "titulo": "Democracia & Periodismo",
+        "citas": [
+          {
+            "texto": "Si tuviera que decidir si debemos tener un gobierno sin periódicos o periódicos sin gobierno, no dudaría en preferir lo segundo",
+            "autor": "Thomas Jefferson"
+          },
+          {
+            "texto": "Sin publicidad no puede haber apoyo público, y sin apoyo público, todas las naciones decaen",
+            "autor": "Benjamin Disraeli"
+          },
+          {
+            "texto": "La libertad de prensa no solo es importante para la democracia, es la democracia",
+            "autor": "Walter Cronkite"
+          },
+          {
+            "texto": "No estoy de acuerdo con lo que dices, pero defenderé con mi vida tu derecho a expresarlo",
+            "autor": "Voltaire"
+          }
+        ]
+      }
+    ]
+  }
+}

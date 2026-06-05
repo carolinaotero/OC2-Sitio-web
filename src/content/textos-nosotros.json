@@ -1,0 +1,21 @@
+{
+  "nosotros": {
+    "hero": {
+      "eyebrow": "Somos",
+      "palabra1": "Pasión",
+      "palabra2": "Proactividad",
+      "palabra3": "Criterio"
+    },
+    "filosofia": {
+      "titulo_1": "Apasionados por lo que hacemos desde hace",
+      "titulo_2": "más de veinte años.",
+      "parrafo1": "os ponemos la camiseta del cliente. Los conocemos en profundidad. Su identidad la hacemos propia, de modo de proponerles respuestas, mensajes y acciones consistentes con quienes son.",
+      "parrafo2": "No somos intermediarios entre sus públicos, sino que consejeros en los efectos comunicacionales y políticos de su toma de decisiones. Discrepamos si es necesario, aunque siempre el cliente tiene la última palabra.",
+      "parrafo3": "La asesoría no la segmentamos en áreas. Todos nuestros servicios los damos de modo conjunto, porque fortalecer y cautelar la reputación no es fraccionable.",
+      "parrafo4": "Entendemos la lógica de todas las plataformas, autoridades, públicos. El común denominador para ser exitosos en todas ellas es el criterio. Y el criterio lo da el conocimiento, la información y la experiencia."
+    },
+    "quote": {
+      "texto": "La tecnología acelera procesos y cambia formatos, pero no reemplaza el criterio."
+    }
+  }
+}
