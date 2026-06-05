@@ -11,7 +11,7 @@ export function ServiceArea4() {
       <div className="shrink-0">
         <div className="bg-[#bdbb82] rounded-full w-[6px] h-[6px]"></div>
       </div>
-      <div className="font-['Manrope',sans-serif] text-[#3c5b79] text-[13px] uppercase leading-[1.4]">
+      <div className="font-['Manrope',sans-serif] font-bold text-[#3c5b79] text-[13px] uppercase leading-[1.4]">
         {text}
       </div>
     </div>
@@ -19,7 +19,7 @@ export function ServiceArea4() {
 
   const renderTaller = (taller: { nombre: string; items: string[] }, idx: number) => (
     <div key={idx} className="flex flex-col gap-[24px]">
-      <h4 className="font-['Newsreader',serif] italic font-normal text-[#5d89b4] text-[20px] leading-[28px] m-0">
+      <h4 className="font-['Newsreader',serif] font-normal text-[#5d89b4] text-[20px] leading-[28px] m-0">
         {taller.nombre}
       </h4>
       <div className="flex flex-col">
