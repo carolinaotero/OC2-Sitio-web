@@ -40,7 +40,7 @@ export function ServiceArea3() {
                 {cardIcons[idx] ?? null}
               </div>
               <div className="flex flex-col gap-[8px]">
-                <span className="font-['Manrope',sans-serif] text-[#5d89b4] text-[14px] tracking-[1.4px] uppercase leading-[20px]">
+                <span className="font-['Manrope',sans-serif] font-bold text-[#5d89b4] text-[14px] tracking-[1.4px] uppercase leading-[20px]">
                   {card.titulo}
                 </span>
                 <span className="font-['Manrope',sans-serif] text-[#3c5b79] text-[14px] leading-[22.75px]">
