@@ -108,7 +108,7 @@ export function Footer() {
         <div className="flex flex-col w-full pt-[24px] pb-10">
           <div className="w-full border-t border-[#A28C6A] pt-[33px]">
             <p className="font-sans font-normal text-[#5D89B4] text-[10px] leading-[16.25px] m-0">
-              © 2026 OC2. Otero Studio
+              © 2026 OC2 Consultoría en Comunicaciones
             </p>
           </div>
         </div>
