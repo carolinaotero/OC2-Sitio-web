@@ -12,7 +12,7 @@ export function ServiceArea2() {
       <div className="shrink-0">
         <div className="bg-[#bdbb82] rounded-full w-[6px] h-[6px]"></div>
       </div>
-      <div className="font-['Manrope',sans-serif] text-[#3c5b79] text-[13px] uppercase leading-[1.4]">
+      <div className="font-['Manrope',sans-serif] font-bold text-[#3c5b79] text-[13px] uppercase leading-[1.4]">
         {text}
       </div>
     </div>
