@@ -62,6 +62,16 @@
       "linkedin": ""
     },
     {
+      "apellido2": "Poloni",
+      "formacion": "• Universidad Diego Portales - Periodista",
+      "nombre": "Sofía",
+      "apellido1": "Aravena",
+      "cargo": "Comunicaciones",
+      "trayectoria": "• Más de 14 años en medios de comunicación, entre los que destacan Emol, Diario Financiero y CNN Chile. Fue editora web en La Tercera. \n• Especializada en economía, negocios y actualidad. \n• Experiencia en comunicación estratégica. \n",
+      "foto": "/uploads/oc2-card-sofía-aravena.jpg",
+      "foto_modal": "/uploads/oc2-modal-sofía-aravena.jpg"
+    },
+    {
       "formacion": "• Universidad del Desarrollo - Periodista. Mejor titulada de su generación.\n• Pontificia Universidad Católica de Chile - Magíster en Comunicación Estratégica\n• Pontificia Universidad Católica de Chile - Diplomado en IA en gestión comunicacional y nuevas tendencias en comunicación estratégica",
       "foto": "/uploads/oc2-card-carla-anconetani.jpg",
       "nombre": "Carla",
@@ -69,17 +79,6 @@
       "apellido1": "Anconetani",
       "apellido2": "Miranda",
       "trayectoria": "• Experiencia en comunicación estratégica, marketing y gestión de RRSS.\n",
-      "cargo": "Comunicaciones",
-      "linkedin": ""
-    },
-    {
-      "formacion": "• Pontificia Universidad Católica de Valparaíso - Periodista\n• Universidad Adolfo Ibáñez - Magíster en Comunicación Estratégica",
-      "foto": "/uploads/oc2-card-jorge-vejar.jpg",
-      "nombre": "Jorge",
-      "foto_modal": "/uploads/oc2-modal-jorge-vejar.jpg",
-      "apellido1": "Vejar",
-      "apellido2": "Kruberg",
-      "trayectoria": "• Experiencia en el sector público y privado.\n• 5 años en comunicación estratégica.\n",
       "cargo": "Comunicaciones",
       "linkedin": ""
     },

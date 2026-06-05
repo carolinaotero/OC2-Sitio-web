@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { motion } from 'motion/react';
-import imgCard from '../imports/Equipo/6c504bd57cdf23d383ee0d74847ac3af45cfa524.png';
+import imgCard from '../imports/Equipo/placeholder-card.jpg';
 
 // ── Inline SVGs ─────────────────────────────────────────────────────────────
 

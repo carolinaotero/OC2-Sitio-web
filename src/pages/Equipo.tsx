@@ -4,7 +4,7 @@ import { AnimatePresence } from 'motion/react';
 import { FadeUp } from "../components/ScrollReveal";
 import { Member, mapMember, MemberCard, MemberModal } from "../components/TeamMemberCard";
 import imgHero from "../imports/Equipo/socias-hero.svg";
-import imgOficina from "../imports/Equipo/equipo-oficina.png";
+import imgOficina from "../imports/Equipo/equipo-oficina.jpg";
 import equipoData from '../content/equipo.json';
 import textos from '../content/textos.json';
 
