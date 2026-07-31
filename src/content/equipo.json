@@ -73,17 +73,6 @@
       "linkedin": ""
     },
     {
-      "formacion": "• Universidad del Desarrollo - Periodista\n• Universidad del Desarrollo - Magíster en Comunicación Estratégica, Marketing y Negocios\n• Universidad de los Andes - Diplomado en Gestión de Personas y Liderazgo",
-      "foto": "/uploads/oc2-card-rodrigo-vargas.jpg",
-      "nombre": "Rodrigo",
-      "foto_modal": "/uploads/oc2-modal-rodrigo-vargas.jpg",
-      "apellido1": "Vargas",
-      "apellido2": "Becerra",
-      "trayectoria": "• Experiencia en comunicación estratégica, RR.SS. y marketing para empresas.\n",
-      "cargo": "Comunicaciones",
-      "linkedin": ""
-    },
-    {
       "formacion": "• Universidad de los Andes - Periodista y Licenciado en Comunicación Social, Premio excelencia Académica y distinción máxima. Mejor titulado de su generación.",
       "foto": "/uploads/oc2-card-raphael-mendez.jpg",
       "nombre": "Raphael",
@@ -106,17 +95,6 @@
       "linkedin": ""
     },
     {
-      "formacion": "• Pontificia Universidad Católica - Periodista",
-      "foto": "/uploads/oc2-card-michelle-recasens.jpg",
-      "nombre": "Michelle",
-      "foto_modal": "/uploads/oc2-modal-michelle-recasens.jpg",
-      "apellido1": "Recasens",
-      "apellido2": "Vargas",
-      "trayectoria": "• Experiencia en contenidos digitales y televisión. Colaboró en CNN Chile.",
-      "cargo": "Documentación e Investigación",
-      "linkedin": ""
-    },
-    {
       "formacion": "• Universidad de Los Andes - Periodista\n• Universidad del Desarrollo - Diplomado en Herramientas de Marketing Digital\n• ESE Business School - Certificación “Periodistas en el Mundo Financiero”",
       "foto": "/uploads/oc2-card-nicolas-rodriguez.jpg",
       "nombre": "Nicolás",
@@ -124,6 +102,28 @@
       "apellido1": "Rodríguez",
       "apellido2": "Chaigneau",
       "trayectoria": "• Experiencia en comunicación estratégica, finanzas y marketing digital.",
+      "cargo": "Comunicaciones",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Universidad del Desarrollo - Periodista\n• Universidad del Desarrollo - Magíster en Comunicación Estratégica, Marketing y Negocios\n• Universidad de los Andes - Diplomado en Gestión de Personas y Liderazgo",
+      "foto": "/uploads/oc2-card-rodrigo-vargas.jpg",
+      "nombre": "Rodrigo",
+      "foto_modal": "/uploads/oc2-modal-rodrigo-vargas.jpg",
+      "apellido1": "Vargas",
+      "apellido2": "Becerra",
+      "trayectoria": "• Experiencia en comunicación estratégica, RR.SS. y marketing para empresas.\n",
+      "cargo": "Documentación",
+      "linkedin": ""
+    },
+    {
+      "formacion": "• Pontificia Universidad Católica - Periodista",
+      "foto": "/uploads/oc2-card-michelle-recasens.jpg",
+      "nombre": "Michelle",
+      "foto_modal": "/uploads/oc2-modal-michelle-recasens.jpg",
+      "apellido1": "Recasens",
+      "apellido2": "Vargas",
+      "trayectoria": "• Experiencia en contenidos digitales y televisión. Colaboró en CNN Chile.",
       "cargo": "Documentación e Investigación",
       "linkedin": ""
     },
