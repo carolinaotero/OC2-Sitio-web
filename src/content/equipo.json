@@ -106,6 +106,16 @@
       "linkedin": ""
     },
     {
+      "apellido2": "",
+      "formacion": "• Universidad de los Andes - Periodista y Licenciado en • Comunicación Social.  ESE Business School - Certificación “Periodistas en el Mundo Financiero”\n\n",
+      "nombre": "José",
+      "apellido1": "Riquelme ",
+      "cargo": "Comunicaciones",
+      "foto": "/uploads/jir-foto-copia.jpg",
+      "foto_modal": "/uploads/jir-modal.png",
+      "trayectoria": "• Experiencia en política, economía y judicial en Megamedia y Radio Biobío."
+    },
+    {
       "formacion": "• Universidad del Desarrollo - Periodista\n• Universidad del Desarrollo - Magíster en Comunicación Estratégica, Marketing y Negocios\n• Universidad de los Andes - Diplomado en Gestión de Personas y Liderazgo",
       "foto": "/uploads/oc2-card-rodrigo-vargas.jpg",
       "nombre": "Rodrigo",
@@ -137,16 +147,6 @@
       "trayectoria": "• Sin ella no pasa nada.\n",
       "cargo": "Administradora",
       "linkedin": ""
-    },
-    {
-      "apellido2": "",
-      "formacion": "• Universidad de los Andes - Periodista y Licenciado en • Comunicación Social.  ESE Business School - Certificación “Periodistas en el Mundo Financiero”\n\n",
-      "nombre": "José",
-      "apellido1": "Riquelme ",
-      "cargo": "Comunicaciones",
-      "foto": "/uploads/jir-foto-copia.jpg",
-      "foto_modal": "/uploads/jir-modal.png",
-      "trayectoria": "• Experiencia en política, economía y judicial en Megamedia y Radio Biobío."
     }
   ]
 }
