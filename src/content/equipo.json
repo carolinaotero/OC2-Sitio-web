@@ -73,28 +73,6 @@
       "linkedin": ""
     },
     {
-      "formacion": "• Universidad de los Andes - Periodista y Licenciado en Comunicación Social, Premio excelencia Académica y distinción máxima. Mejor titulado de su generación.",
-      "foto": "/uploads/oc2-card-raphael-mendez.jpg",
-      "nombre": "Raphael",
-      "foto_modal": "/uploads/oc2-modal-raphael-mendez.jpg",
-      "apellido1": "Méndez",
-      "apellido2": "Salas",
-      "trayectoria": "• Experiencia en economía, mercados y finanzas en El Mercurio y Diario Financiero.\n",
-      "cargo": "Comunicaciones",
-      "linkedin": ""
-    },
-    {
-      "formacion": "• Pontificia Universidad Católica de Chile - Periodista\n• Pontificia Universidad Católica de Chile - Licenciada en Ciencias Sociales College",
-      "foto": "/uploads/oc2-card-maria-jose-bastias.jpg",
-      "nombre": "María José",
-      "foto_modal": "/uploads/oc2-modal-maria-jose-bastias.jpg",
-      "apellido1": "Bastías",
-      "apellido2": "Sandoval",
-      "trayectoria": "• Experiencia en instituciones públicas y privadas.\n• Experiencia en investigación y documentación. \n",
-      "cargo": "Comunicaciones",
-      "linkedin": ""
-    },
-    {
       "formacion": "• Universidad de Los Andes - Periodista\n• Universidad del Desarrollo - Diplomado en Herramientas de Marketing Digital\n• ESE Business School - Certificación “Periodistas en el Mundo Financiero”",
       "foto": "/uploads/oc2-card-nicolas-rodriguez.jpg",
       "nombre": "Nicolás",
@@ -114,6 +92,16 @@
       "foto": "/uploads/oc2-card-jose-riquelme.jpg",
       "foto_modal": "/uploads/oc2-modal-jose-riquelme.jpg",
       "trayectoria": "• Experiencia en política, economía y judicial en Megamedia y Radio Biobío. "
+    },
+    {
+      "apellido2": "",
+      "formacion": "• Universidad de Los Andes: Periodista y licenciada en comunicación social",
+      "nombre": "Valentina ",
+      "apellido1": "Climent",
+      "cargo": "Comunicaciones",
+      "trayectoria": "• Experiencia en comunicación estratégica.",
+      "foto": "/uploads/oc2-card-valentina-climent.jpg",
+      "foto_modal": "/uploads/oc2-modal-valentina-clement.jpg"
     },
     {
       "formacion": "• Universidad del Desarrollo  - Periodista\n• Universidad del Desarrollo  - Magíster en Comunicación Estratégica, Marketing y Negocios\n• Universidad de Los Andes  - Diplomado en Gestión der Personas y Liderazgo",
@@ -147,16 +135,6 @@
       "trayectoria": "• Sin ella no pasa nada.\n",
       "cargo": "Administradora",
       "linkedin": ""
-    },
-    {
-      "apellido2": "",
-      "formacion": "• Universidad de Los Andes: Periodista y licenciada en comunicación social",
-      "nombre": "Valentina ",
-      "apellido1": "Climent",
-      "cargo": "Comunicaciones",
-      "trayectoria": "• Experiencia en comunicación estratégica.",
-      "foto": "/uploads/oc2-card-valentina-climent.jpg",
-      "foto_modal": "/uploads/oc2-modal-valentina-clement.jpg"
     }
   ]
 }
